@@ -1,3 +1,7 @@
+# Running Server Side Rendering
+
+npm run start
+
 # AngularUniversalDemo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.3.
